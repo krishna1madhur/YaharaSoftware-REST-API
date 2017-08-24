@@ -1,0 +1,16 @@
+App_Data
+App_Start
+Areas
+bin
+Content
+fonts
+obj
+Scripts
+ApplicationInsights.config
+favicon
+Global.asax
+Global.asax.cs
+packages.config
+Web.Debug.config
+Yahara2.Web
+Yahara2Web.csproj.user
