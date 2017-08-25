@@ -15,7 +15,14 @@ namespace Yahara2.Web.Service
         void StoreInFile(Segment segment1, Segment segment2);
 
         Segment[] GenerateExistingSegment();
+        
+        bool checkFutureRequest(Segment[] segments, Segment[] existingSegments);
 
         bool DoLinesIntersect(Segment line1, Segment line2);
+
+        int Orientation(Point P, Point Q, Point R);
+
+        bool CheckOnSegment(Point P, Point Q, Point R);
+
     }
 }

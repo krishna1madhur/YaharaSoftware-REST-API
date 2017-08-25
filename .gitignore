@@ -7,10 +7,14 @@ fonts
 obj
 Scripts
 ApplicationInsights.config
-favicon
+favicon.ico
 Global.asax
 Global.asax.cs
 packages.config
 Web.Debug.config
 Yahara2.Web
 Yahara2Web.csproj.user
+ExistingPoints.txt
+Web.Release.config
+Web.config
+Yahara2.Web.csproj
